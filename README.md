@@ -1,2 +1,7 @@
-# my-first-pages-s2
+# Xiaoman Li
+
+Hello World
+
+I am studying 
+- IELTS
  
